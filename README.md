@@ -7,7 +7,7 @@
 > **Hackathon Project (IARE):** A real-time object detection and navigation assistance system designed to empower visually impaired users with "digital sight."
 
 ## 🖼️ Project Preview
-![BlindMate Interface](./preview.jpg)
+![BlindMate Interface](./prewiew.png)
 *(Snapshot of the real-time detection interface with risk classification)*
 
 ## 💡 The Problem & Solution
